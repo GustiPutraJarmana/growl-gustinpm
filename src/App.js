@@ -31,5 +31,3 @@ export function useGrowl(timeOut) {
         },
     ]
 }
-
-export default App;
